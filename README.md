@@ -1,9 +1,9 @@
 
 # BrickBreaker
 
-<img src="images/play_in_progress_screen.png" width="350" alt="BrickBreaker Preview">
-
 BrickBreaker is a classic arcade-style game where players use a paddle to bounce a ball and break bricks. This modern version comes with a sleek interface, scoreboard, and downloadable release.
+
+<img src="preview_images/play_in_progress_screen.png" width="350" alt="BrickBreaker Preview">
 
 ## Table of Contents
 
@@ -69,22 +69,22 @@ BrickBreaker is a classic arcade-style game where players use a paddle to bounce
 ## Screenshots
 
 ### Main Menu
-<img src="images/main_menu.png" width="350" alt="Main Menu">
+<img src="preview_images/main_menu.png" width="350" alt="Main Menu">
 
 ### Help Screen
-<img src="images/help_screen.png" width="350" alt="Help Screen">
+<img src="preview_images/help_screen.png" width="350" alt="Help Screen">
 
 ### Play Screen - Initial
-<img src="images/play_initial_screen.png" width="350" alt="Play Screen - Initial">
+<img src="preview_images/play_initial_screen.png" width="350" alt="Play Screen - Initial">
 
 ### Play Screen - In Progress
-<img src="images/play_in_progress_screen.png" width="350" alt="Play Screen - In Progress">
+<img src="preview_images/play_in_progress_screen.png" width="350" alt="Play Screen - In Progress">
 
 ### Scoreboard
-<img src="images/scoreboard_screen.png" width="350" alt="Scoreboard">
+<img src="preview_images/scoreboard_screen.png" width="350" alt="Scoreboard">
 
 ### Game Over
-<img src="images/game_over_screen.png" width="350" alt="Game Over">
+<img src="preview_images/game_over_screen.png" width="350" alt="Game Over">
 
 ## License
 
