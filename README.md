@@ -69,7 +69,7 @@ BrickBreaker is a classic arcade-style game where players use a paddle to bounce
 ## Screenshots
 
 ### Main Menu
-<img src="preview_images/main_menu.png" width="350" alt="Main Menu">
+<img src="preview_images/main_menu_new.png" width="350" alt="Main Menu">
 
 ### Help Screen
 <img src="preview_images/help_screen.png" width="350" alt="Help Screen">
